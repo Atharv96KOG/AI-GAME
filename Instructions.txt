@@ -1,0 +1,15 @@
+ 
+        Welcome to Hunt the Wumpus Game!
+        ---------------------------------
+
+        Instructions:
+        1. You are an adventurer exploring a cave with hidden dangers.
+        2. Your goal is to find the gold without encountering the wumpus or falling into pits.
+        3. Move around using the arrow keys.
+        4. You will sense a stench when the wumpus is nearby, and a breeze when a pit is nearby.
+        5. Collect the gold to score points.
+        6. Press 'H' to remove the walls of the world.
+        7. Press 'Q' to quit the game.
+        8. Good luck and have fun!
+
+        Press any key to continue...
